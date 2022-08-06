@@ -1,2 +1,2 @@
-# Downloads
-Where I put downloads for videos, OSs and other software I use
+#Software Downloads
+The main downloads for my software
