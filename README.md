@@ -1,4 +1,5 @@
-# [Back to my site](http://woodcraftworld.github.io/index.htm)
-Return to http://woodcraftworld.github.io/index.htm
+# Please visit via FTP page: https://woodcraftworld.github.io/ftp
+
 # Downloads
 Where I put downloads for videos, OSs and other software I use
+ 
